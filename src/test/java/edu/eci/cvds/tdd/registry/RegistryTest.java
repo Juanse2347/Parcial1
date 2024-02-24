@@ -83,6 +83,5 @@ public class RegistryTest {
     }
 
 
-
     // TODO Complete with more test cases
 }
